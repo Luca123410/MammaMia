@@ -363,6 +363,7 @@ Check those links to get the new Domain for the providers.
 
 ## Disclaimer
 This project does not host any  illegal content on his servers, if you want any content  to be taken down, please contact the actual owners of those sites.  
+app_port: 8080
 The Live TV sources are taken from online sites, avaiable on the web and indixed by Google. 
 
 
